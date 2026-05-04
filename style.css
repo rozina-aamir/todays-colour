@@ -3,3 +3,7 @@ body {
     color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+    margin-bottom: 0px;
+}
